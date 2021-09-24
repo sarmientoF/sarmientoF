@@ -37,14 +37,24 @@ My name is Fernando Sarmiento and I'm a 4th year undergrad student in Systems an
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/sarmientoF/sarmientoF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmientoF&hide=css,html,scss,tex,shell,matlab,java,sass&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/sarmientoF/sarmientoF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarmientoF&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sarmiento's GitHub Stats" />
+</a>
+
+<a href="https://github.com/sarmientoF/BarManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarmientoF&repo=BarManager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/sarmientoF/GAS_drive_manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sarmientoF&repo=GAS_drive_manager&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <!-- links to social media icons -->
 
@@ -57,8 +67,8 @@ My name is Fernando Sarmiento and I'm a 4th year undergrad student in Systems an
 
 [1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
-[3.2]: https://raw.githubusercontent.com/sarmientoF/sarmientoF/master/LI-In-Bug.png "LinkedIn icon without padding"
-
+[3.2]: https://raw.githubusercontent.com/sarmientoF/sarmientoF/master/link.png "LinkedIn icon without padding"
+<!-- LinkedIn -->
 <!-- links to your social media accounts -->
 
 [2]: https://github.com/sarmientoF
