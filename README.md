@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/sarmientoF/sarmientoF/master/wave.gif" width="30px">
 
-My name is Fernando Sarmiento and I'm a 4th year undergrad student in Systems and Control Engineer at Tokyo Institute of Technology, also I software developer/DevOps engineer. I'm from Peru, living in Tokyo and currently working as fullstack enginner freelancer. You can find me on [![LinkedIn][3.2]][3].
+My name is Fernando Sarmiento and I'm a master grad student in Systems and Control Engineer at Tokyo Institute of Technology, also I currently work as software developer/DevOps engineer. I'm from Peru, living in Tokyo and currently working as fullstack enginner freelancer. You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 
